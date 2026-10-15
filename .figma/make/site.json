@@ -1,0 +1,10 @@
+{
+  "description": "Streamline pharmacy operations with an intuitive dashboard that tracks sales, inventory, and alerts, enhancing efficiency for pharmacy managers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
