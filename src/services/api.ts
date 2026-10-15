@@ -1,4 +1,4 @@
-const BASE_URL = "http://medicare-api.42web.io/api";
+const BASE_URL = "/api";
 
 export interface DashboardStatsResponse {
   status: "success" | "error";
