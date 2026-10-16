@@ -1,4 +1,4 @@
-const BASE_URL = "/api";
+const BASE_URL = "https://medicare-multibranch-suite.onrender.com/api";
 
 export interface DashboardStatsResponse {
   status: "success" | "error";
